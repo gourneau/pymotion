@@ -8,6 +8,6 @@ get it working again.
 In progress.
 
 ### Links
-* Unimotion http://unimotion.sourceforge.net/
-* Patch for Unimotion http://sourceforge.net/tracker/index.php?func=detail&aid=2943535&group_id=169958&atid=852436
+* [Unimotion](http://unimotion.sourceforge.net/)
+* [Patch for Unimotion] (http://sourceforge.net/tracker/index.php?func=detail&aid=2943535&group_id=169958&atid=852436)
 
