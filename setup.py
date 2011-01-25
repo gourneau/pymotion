@@ -8,15 +8,17 @@ pymotion_core = Extension(
     extra_link_args = \
         ['-framework', 'IOKit',
         '-framework', 'CoreFoundation',
-        '-framework', 'Carbon'],
+        '-framework', 'Carbon'
+		],
 )
 
 result = setup(
 	name = 'pymotion',
 	author = 'Vicent Marti',
 	author_email = 'tanoku@gmail.com',
+	maintainer_email = 'phubbard@gmail.com',
 	url  = 'http://www.bellverde.org',
-	version = '0.3',
+	version = '0.3.1',
 	description = \
         """Python bindings to access Apple 
         MacBook series accelerometer data.""",
