@@ -24,6 +24,7 @@
  * Modified for Hi Res Powerbook compatibility by Pall Thayer
  * Modified for MacBook Pro compatibility by Randy Green
  * Disparate forks unified into UniMotion by Lincoln Ramsay
+ * Patch for OS X 10.6 by boredzo (http://code.google.com/p/websaver/issues/detail?id=3)
  */
 
 // This license applies to the portions created by Cristian Klein.
