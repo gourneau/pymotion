@@ -1,8 +1,7 @@
 
 ## Introduction
 
-This is a fork of the pymotion library, that version is broken on OSX 10.6. I'm trying to
-get it working again.
+This is a fork of the pymotion library. 
 
 ### Links
 * [Unimotion](http://unimotion.sourceforge.net/)
